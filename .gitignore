@@ -1,0 +1,26 @@
+# D defaults
+.dub
+docs.json
+__dummy.html
+docs/
+/hoaros
+hoaros.so
+hoaros.dylib
+hoaros.dll
+libhoaros.a
+hoaros.a
+hoaros.lib
+hoaros-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+
+# Logs
+*.log
+
+# HoarOS specific
+/build
+# Temp: primitive initrd
+initrd.bin

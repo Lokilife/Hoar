@@ -1,0 +1,9 @@
+{
+	"description": "An OS written in D",
+	"license": "MIT",
+	"authors": [
+		"Lokilife"
+	],
+	"copyright": "Copyright (c) 2026, Lokilife",
+	"name": "hoar"
+}
