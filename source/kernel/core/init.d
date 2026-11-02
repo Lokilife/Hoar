@@ -67,7 +67,6 @@ public void kernelInit(KernelInitOptions opts) nothrow @nogc
     KThread* u1 = threadCreate(&userProgram);
     KThread* u2 = threadCreate(&userProgram);
 
-    // schedule();
     KThread* first = runQueueHead;
     runQueueHead = first.next;
     first.next = null;

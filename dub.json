@@ -1,6 +1,6 @@
 {
 	"description": "An OS written in D",
-	"license": "MIT",
+	"license": "Apache-2.0",
 	"authors": [
 		"Lokilife"
 	],
